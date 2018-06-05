@@ -6,9 +6,9 @@ A curated list of sanatana dharma(सनातन धर्म), resources and s
 Please see [CONTRIBUTING](https://github.com/gopalindians/awesome-hinduism/blob/master/CONTRIBUTING.md) for details.
 
 ## Table of Contents
-
-- [Vedas](#Vedas)  
-- [Demi Gods](#demi-gods)
+- [Awesome Hinduism](#awesome-hinduism)
+   - [Vedas](#Vedas)  
+   - [Demi Gods](#demi-gods)
 
 ### Vedas
 *Oldest books of humanity.*
@@ -18,5 +18,3 @@ Please see [CONTRIBUTING](https://github.com/gopalindians/awesome-hinduism/blob/
 ### Demi Gods
 *Gods you can invoke(आह्वाहन) with mantra.*
    * [Lord Siva and His Worship](http://www.dlshq.org/download/lordsiva.htm) - By Sri Swami Sivananda
-
-
