@@ -1,5 +1,5 @@
 # Contribution Guidelines
-Unfortunately, not every link, book or article can be considered for inclusion. The aim of Awesome induism is to be a concise list of noteworthy and interesting collection written under Hinduism(सनातन धर्मं). Therefore, suggested link, article,book should:
+Unfortunately, not every link, book or article can be considered for inclusion. The aim of Awesome Hinduism is to be a concise list of noteworthy and interesting collection written under Hinduism(सनातन धर्मं). Therefore, suggested link, article,book should:
 
 1. Be widely recommended regardless of personal opinion
 2. Well known or discussed within the Hindu(हिन्दू) community

@@ -7,12 +7,17 @@ Please see [CONTRIBUTING](https://github.com/gopalindians/awesome-hinduism/blob/
 
 ## Table of Contents
 - [Awesome Hinduism](#awesome-hinduism)
-   - [Vedas](#Vedas)  
+   - [Vedas](#vedas)  
+   - [Gita](#gita)  
    - [Demi Gods](#demi-gods)
 
 ### Vedas
 *Oldest books of humanity.*
    * [Rigveda - Hindi Bhashya](http://elibrary.thearyasamaj.org/elib/book/eLb_316) - By maharishi dayanand
+   
+### Gita
+*Song of God.*
+   * [Yatharth Geeta](https://yatharthgeeta.com) - By Swami Shri Adgadanand Ji Maharaj   
   
 
 ### Demi Gods
