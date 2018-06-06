@@ -10,6 +10,7 @@ Please see [CONTRIBUTING](https://github.com/gopalindians/awesome-hinduism/blob/
    - [Vedas](#vedas)  
    - [Gita](#gita)  
    - [Demi Gods](#demi-gods)
+   - [Swamis](#swamis)
 
 ### Vedas
 *Oldest books of humanity.*
@@ -23,3 +24,9 @@ Please see [CONTRIBUTING](https://github.com/gopalindians/awesome-hinduism/blob/
 ### Demi Gods
 *Gods you can invoke(आह्वाहन) with mantra.*
    * [Lord Siva and His Worship](http://www.dlshq.org/download/lordsiva.htm) - By Sri Swami Sivananda
+   
+### Swamis
+*Self realized saints.*
+   * [Swami Sivananda](https://www.sivananda.org/teachings/swami-sivananda.html)   
+   * [Raman Maharishi](https://www.sriramanamaharshi.org)
+   * [Swami Vivekananda](https://belurmath.org/swami-vivekananda/)
