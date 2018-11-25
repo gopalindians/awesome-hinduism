@@ -11,6 +11,7 @@ Please see [CONTRIBUTING](https://github.com/gopalindians/awesome-hinduism/blob/
    - [Gita](#gita)  
    - [Demi Gods](#demi-gods)
    - [Swamis](#swamis)
+   - [Magazines](#magazines)
 
 ### Vedas
 *Oldest books of humanity.*
