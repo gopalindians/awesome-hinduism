@@ -7,9 +7,28 @@ Please see [CONTRIBUTING](https://github.com/gopalindians/awesome-hinduism/blob/
 
 ## Table of Contents
 - [Awesome Hinduism](#awesome-hinduism)
-   - [Vedas](#vedas)  
-   - [Gita](#gita)  
+   - [Vedas](#vedas)
+     - [Rig Veda](#rig-veda)
+   - [Vedant](#vedant)  
+     - [Adveta Vedant](#advete-vedant)
+     - [Dveta Vedant](#dveta-vedant)
+   - [Gita](#gita)
    - [Demi Gods](#demi-gods)
+      - [Brahma](#brahma)
+      - [Vishnu](#vishnu)
+         - [Lakshmi](#lakshmi)
+
+      - [Mahesh](#mahesh)
+         - [Family](#shiva-family)
+            - [Sati- First Wife](#sati)
+            - [Parvati-Wife](#parvati)
+            - [Ganesh-Son](#ganesh)
+            - [Kartik-Son](#kartik)
+         - [Books](#shiva-books)
+            - [Shiva Purana](#shiv-puran)
+            - [Linga Purana](#linga-puran)
+            - [Mārkandeya Purana](#Mārkandeya-puran)
+
    - [Swamis](#swamis)
    - [Magazines](#magazines)
 
@@ -24,7 +43,19 @@ Please see [CONTRIBUTING](https://github.com/gopalindians/awesome-hinduism/blob/
 
 ### Demi Gods
 *Gods you can invoke(आह्वाहन) with mantra.*
-   * [Lord Siva and His Worship](http://www.dlshq.org/download/lordsiva.htm) - By Sri Swami Sivananda
+
+   * Brahma      
+
+   * Vishnu
+
+   * Mahesh - [Lord Siva and His Worship](http://www.dlshq.org/download/lordsiva.htm) 
+     - Family
+       - Sati
+       - Parvati
+       - Ganesh
+       - Kartik
+
+   
    
 ### Swamis
 *Self realized saints.*
