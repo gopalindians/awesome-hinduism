@@ -31,6 +31,11 @@ Please see [CONTRIBUTING](https://github.com/gopalindians/awesome-hinduism/blob/
 
    - [Swamis](#swamis)
    - [Magazines](#magazines)
+   - [Panth-Sampradaye](#panth-sampradaye)
+      - [Nath-panth](#nath-panth)
+      - [Sahib-bandagi](#sahib-bandagi)
+      - [Nirankari](#nirankari)
+      - [](#nirankari)
 
 ### Vedas
 *Oldest books of humanity.*
@@ -72,3 +77,16 @@ Please see [CONTRIBUTING](https://github.com/gopalindians/awesome-hinduism/blob/
    * [Avahan [HINDI | ENGLISH] - Bihar School of Yoga](http://www.biharyoga.net/uncategorized/avahan-e-magazine/)
    * [Yoga magazine [HINDI | ENGLISH] - Bihar School of Yoga](http://www.biharyoga.net/uncategorized/yoga-magazines/) - [Another link](http://www.yogamag.net/)
    * [Tantra [HINDI]- Dr. Narayan Dutt Shrimalli](https://drnarayanduttshrimali.com/magazines)
+
+### Panth-Sampradaye   
+   * ### [Nath-Panth](https://en.wikipedia.org/wiki/Nath)
+      - [Nine Siddhas]()
+         - [Matsyendranath](https://en.wikipedia.org/wiki/Matsyendra)
+         - [Gorakshanath](https://en.wikipedia.org/wiki/Gorakshanath)
+         - [Jalandharnath]()
+         - [Kanifnath](https://en.wikipedia.org/wiki/Kanifnath)
+         - [Gahininath]()
+         - [Bhartrinath]() - [Raja Bhartihari]()
+         - [Revan_Nath](https://en.wikipedia.org/wiki/Revan_Nath)
+         - [Charpatinath]()
+         - [Naganath]()
