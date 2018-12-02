@@ -90,3 +90,5 @@ Please see [CONTRIBUTING](https://github.com/gopalindians/awesome-hinduism/blob/
          - [Revan_Nath](https://en.wikipedia.org/wiki/Revan_Nath)
          - [Charpatinath]()
          - [Naganath]()
+   * ### [Sahib-Bandagi](http://sahib-bandgi.org/)
+      - [Sadguru Madhu Param Hansji](https://web.archive.org/web/20181202080249/http://news.statetimes.in/rarest-among-the-rare-satguru-madhu-param-hans-66th-birthday/)
