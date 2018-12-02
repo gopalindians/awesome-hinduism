@@ -13,6 +13,7 @@ Please see [CONTRIBUTING](https://github.com/gopalindians/awesome-hinduism/blob/
      - [Adveta Vedant](#advete-vedant)
      - [Dveta Vedant](#dveta-vedant)
    - [Gita](#gita)
+   - [Puranas](#puranas)
    - [Demi Gods](#demi-gods)
       - [Brahma](#brahma)
       - [Vishnu](#vishnu)
@@ -44,7 +45,28 @@ Please see [CONTRIBUTING](https://github.com/gopalindians/awesome-hinduism/blob/
 ### Gita
 *Song of God.*
    * [Yatharth Geeta](https://yatharthgeeta.com) - By Swami Shri Adgadanand Ji Maharaj   
-  
+
+### Puranas
+*Text dedicated to Brahma, Vishnu & Mahesh.*
+   * [Agni](https://yatharthgeeta.com) -      
+   * [Bhagvat](https://yatharthgeeta.com) -      
+   * [Bhavishya](https://yatharthgeeta.com) -      
+   * [Brahma](https://yatharthgeeta.com) -      
+   * [Brahmand](https://yatharthgeeta.com) -      
+   * [Garuda](https://yatharthgeeta.com) -      
+   * [Kurma](https://yatharthgeeta.com) -      
+   * [Linga](https://yatharthgeeta.com) -      
+   * [Markandya](https://yatharthgeeta.com) -      
+   * [Matsya](https://yatharthgeeta.com) -      
+   * [Narad](https://yatharthgeeta.com) -      
+   * [Narsimha](https://yatharthgeeta.com) -      
+   * [Padma](https://yatharthgeeta.com) -      
+   * [Shiv[ENG]](http://www.gurujimaharaj.com/shivpuran-en.html) -      
+   * [Skanda](https://yatharthgeeta.com) -      
+   * [Vaivatra](https://yatharthgeeta.com) -      
+   * [Vaman](https://yatharthgeeta.com) -      
+   * [Varah](https://yatharthgeeta.com) -      
+   * [Vishnu](https://yatharthgeeta.com) -      
 
 ### Demi Gods
 *Gods you can invoke(आह्वाहन) with mantra.*
