@@ -32,9 +32,7 @@
 
 
 
-# 
-
-.0.0Awesome Hinduism-सनातन धर्म
+# Awesome Hinduism-सनातन धर्म
 
 A curated list of sanatana dharma(सनातन धर्म), resources and shiny things.
 
