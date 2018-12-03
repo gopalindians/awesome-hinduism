@@ -58,7 +58,16 @@ Please see [CONTRIBUTING](https://github.com/gopalindians/awesome-hinduism/blob/
       - [Ramanandi](#Ramanandi)
       - [Akhada](#Akhada)
    - [Gurukula](#gurukula)
-      - []      
+      - [Shri Sidhdata Ashram - Haryana](http://www.shrisidhdataashram.org)
+      - [Parmarth Gurukul - Rishikesh](https://www.parmarth.org/ashram/gurukul/)
+      - [Darshnam Sanskrit Sansthan](http://www.dss.sgvp.org/)
+      - [Veda Vijnana Gurukulam](http://www.vvgurukulam.org)
+      - [Omakarnath Samkrit Sikhsha Samsad](http://www.omkarnathsamskritasikshasamsad.in)
+      - [Gurukul Kangri Vidyalaya](https://gurukulkangrividyalaya.org/)
+      - [Chinmaya Eswar Gurukula ](http://chinmayauniversity.ac.in/chinmaya-eswar-gurukula/)
+      - [Acharyakulam](http://www.acharyakulam.org/)http://prabodhinigurukula.org/
+      - [Prabodhini Gurukulam](http://prabodhinigurukula.org/)
+
 
 ### Vedas
 *Oldest books of humanity.*
