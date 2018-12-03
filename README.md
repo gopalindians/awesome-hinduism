@@ -1,4 +1,40 @@
-# Awesome Hinduism
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# 
+
+.0.0Awesome Hinduism-सनातन धर्म
 
 A curated list of sanatana dharma(सनातन धर्म), resources and shiny things.
 
@@ -36,7 +72,26 @@ Please see [CONTRIBUTING](https://github.com/gopalindians/awesome-hinduism/blob/
       - [Nath-panth](#nath-panth)
       - [Sahib-bandagi](#sahib-bandagi)
       - [Nirankari](#nirankari)
-      - [](#nirankari)
+      - [Ramanandi](#Ramanandi)
+      - [Akhada](#Akhada)
+        - [Sanyasi Akhara]()
+            - [Niranjani Akhara - Founded in 904 CE]()
+               - [Ananda Akhara]()
+            - [Juna Akhara - Founded in 1146 CE]()
+               - [Avahan Akhara]()   
+                  - [Agni Akhara]()
+            - [Nirvani akhara]()     
+        - [Vairagi Akhara]()
+            - [Mahanirvani Akhara]()
+               - [Atal Akhara]()
+               - [Nirmohi Akhara ]()
+               - [Digambar Akhara]()
+               - [Khalsa akharas]()
+        - [Udasi Akhara]()
+            - [Nirmal Akhara]()
+            - [Naya Udasin akhara]()
+            - [Bada Udasin akhara]()
+        - [Kalpwasis]()    
 
 ### Vedas
 *Oldest books of humanity.*
@@ -114,3 +169,7 @@ Please see [CONTRIBUTING](https://github.com/gopalindians/awesome-hinduism/blob/
          - [Naganath]()
    * ### [Sahib-Bandagi](http://sahib-bandgi.org/)
       - [Sadguru Madhu Param Hansji](https://web.archive.org/web/20181202080249/http://news.statetimes.in/rarest-among-the-rare-satguru-madhu-param-hans-66th-birthday/)
+    * ### [Nirankari](https://www.nirankari.org/)
+       - [Baba Buta Singh Ji - Founder](https://www.nirankari.org/modules/founder/bababuta/)
+    * ### [Ramanandi](https://en.wikipedia.org/wiki/Ramanandi_Sampradaya)  
+       - [Ramananda - Founder](https://en.wikipedia.org/wiki/Ramananda)
