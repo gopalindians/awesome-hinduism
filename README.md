@@ -65,7 +65,7 @@ Please see [CONTRIBUTING](https://github.com/gopalindians/awesome-hinduism/blob/
       - [Omakarnath Samkrit Sikhsha Samsad](http://www.omkarnathsamskritasikshasamsad.in)
       - [Gurukul Kangri Vidyalaya](https://gurukulkangrividyalaya.org/)
       - [Chinmaya Eswar Gurukula ](http://chinmayauniversity.ac.in/chinmaya-eswar-gurukula/)
-      - [Acharyakulam](http://www.acharyakulam.org/)http://prabodhinigurukula.org/
+      - [Acharyakulam](http://www.acharyakulam.org/)
       - [Prabodhini Gurukulam](http://prabodhinigurukula.org/)
 
 
