@@ -1,37 +1,3 @@
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 # Awesome Hinduism-सनातन धर्म
 
 A curated list of sanatana dharma(सनातन धर्म), resources and shiny things.
@@ -76,6 +42,7 @@ Please see [CONTRIBUTING](https://github.com/gopalindians/awesome-hinduism/blob/
 ### Gita
 *Song of God.*
    * [Yatharth Geeta](https://yatharthgeeta.com) - By Swami Shri Adgadanand Ji Maharaj   
+   * [Bhagavad Gita](http://www.dlshq.org/download/bgita.htm) - By Sri Swami Sivananda
 
 ### Puranas
 *Text dedicated to Brahma, Vishnu & Mahesh.*
