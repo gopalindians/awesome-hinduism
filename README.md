@@ -17,6 +17,7 @@ Please see [CONTRIBUTING](https://github.com/gopalindians/awesome-hinduism/blob/
       - [Mahesh](#mahesh)
    - [Swamis](#swamis)
    - [Magazines](#magazines)
+   - [Blogs](#blogs)
    - [Panth-Sampradaye](#panth-sampradaye)
       - [Nath-panth](#nath-panth)
       - [Sahib-bandagi](#sahib-bandagi)
@@ -98,6 +99,8 @@ Please see [CONTRIBUTING](https://github.com/gopalindians/awesome-hinduism/blob/
    * [Yoga magazine [HINDI | ENGLISH] - Bihar School of Yoga](http://www.biharyoga.net/uncategorized/yoga-magazines/) - [Another link](http://www.yogamag.net/)
    * [Tantra [HINDI]- Dr. Narayan Dutt Shrimalli](https://drnarayanduttshrimali.com/magazines)
 
+### Blogs
+   * [Isha Blog](https://isha.sadhguru.org/)
 ### Panth-Sampradaye   
    * ### [Nath-Panth](https://en.wikipedia.org/wiki/Nath)
       - [Nine Siddhas]()
