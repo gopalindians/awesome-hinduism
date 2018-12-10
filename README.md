@@ -24,7 +24,7 @@ Please see [CONTRIBUTING](https://github.com/gopalindians/awesome-hinduism/blob/
       - [Nirankari](#nirankari)
       - [Ramanandi](#Ramanandi)
       - [Akhada](#Akhada)
-      - [Brahmakumaris](#Brahmakumaris):new
+      - [Brahmakumaris](#Brahmakumaris) :new:
    - [Gurukula](#gurukula)
       - [Shri Sidhdata Ashram - Haryana](http://www.shrisidhdataashram.org)
       - [Parmarth Gurukul - Rishikesh](https://www.parmarth.org/ashram/gurukul/)
