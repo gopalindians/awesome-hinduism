@@ -25,6 +25,7 @@ Please see [CONTRIBUTING](https://github.com/gopalindians/awesome-hinduism/blob/
       - [Ramanandi](#Ramanandi)
       - [Akhada](#Akhada)
       - [Brahmakumaris](#Brahmakumaris) :new:
+      - [Lingayat](#Lingayat) :new:
    - [Gurukula](#gurukula)
       - [Shri Sidhdata Ashram - Haryana](http://www.shrisidhdataashram.org)
       - [Parmarth Gurukul - Rishikesh](https://www.parmarth.org/ashram/gurukul/)
@@ -140,3 +141,4 @@ Please see [CONTRIBUTING](https://github.com/gopalindians/awesome-hinduism/blob/
             - [Bada Udasin akhara]()
         - [Kalpwasis]()
    * ### [Brahmakumaris](http://www.brahmakumaris.org)
+   * ### [Lingayat](https://en.wikipedia.org/wiki/Lingayat)
