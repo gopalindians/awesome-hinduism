@@ -104,6 +104,7 @@ Please see [CONTRIBUTING](https://github.com/gopalindians/awesome-hinduism/blob/
 ### Blogs
    * [Isha Blog](https://isha.sadhguru.org/)
    * [DLSHQ Blog](http://sivanandaonline.org/newsupdates/) :new:
+   * [AOL](https://www.artofliving.org/us-en/blog) :new:
 ### Panth-Sampradaye   
    * ### [Nath-Panth](https://en.wikipedia.org/wiki/Nath)
       - [Nine Siddhas]()
