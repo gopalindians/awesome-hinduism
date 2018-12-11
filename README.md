@@ -17,7 +17,7 @@ Please see [CONTRIBUTING](https://github.com/gopalindians/awesome-hinduism/blob/
       - [Mahesh](#mahesh)
    - [Swamis](#swamis)
    - [Magazines](#magazines)
-   - [Blogs](#blogs)
+   - [Blogs](#blogs) :new:
    - [Panth-Sampradaye](#panth-sampradaye)
       - [Nath-panth](#nath-panth)
       - [Sahib-bandagi](#sahib-bandagi)
@@ -103,7 +103,7 @@ Please see [CONTRIBUTING](https://github.com/gopalindians/awesome-hinduism/blob/
 
 ### Blogs
    * [Isha Blog](https://isha.sadhguru.org/)
-   * [DLSHQ Blog](http://sivanandaonline.org/newsupdates/)
+   * [DLSHQ Blog](http://sivanandaonline.org/newsupdates/) :new:
 ### Panth-Sampradaye   
    * ### [Nath-Panth](https://en.wikipedia.org/wiki/Nath)
       - [Nine Siddhas]()
