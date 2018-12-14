@@ -89,7 +89,8 @@ Please see [CONTRIBUTING](https://github.com/gopalindians/awesome-hinduism/blob/
 *Self realized saints.*
    * [Swami Sivananda](https://www.sivananda.org/teachings/swami-sivananda.html)   
    * [Raman Maharishi](https://www.sriramanamaharshi.org)
-   * [Swami Vivekananda](https://belurmath.org/swami-vivekananda/)
+   * [Ramkrishna Paramhansa](https://belurmath.org/) :new:
+   * [Swami Vivekananda](https://belurmath.org/swami-vivekananda/) 
    
    
 ### Magazines
