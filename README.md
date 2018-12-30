@@ -7,8 +7,7 @@ Please see [CONTRIBUTING](https://github.com/gopalindians/awesome-hinduism/blob/
 
 ## Table of Contents
 - [Awesome Hinduism](#awesome-hinduism)
-   - [Vedas](#vedas)
-   - [Vedant](#vedant)  
+   - [Vedas](#vedas)  
    - [Gita](#gita)
    - [Puranas](#puranas)
    - [Demi Gods](#demi-gods)
@@ -41,6 +40,9 @@ Please see [CONTRIBUTING](https://github.com/gopalindians/awesome-hinduism/blob/
 ### Vedas
 *Oldest books of humanity.*
    * [Rigveda - Hindi Bhashya](http://elibrary.thearyasamaj.org/elib/book/eLb_316) - By maharishi dayanand
+   * Vedant
+        - [Wikipedia](https://en.wikipedia.org/wiki/Vedanta)
+        - [Yoga Vasistha](https://en.wikipedia.org/wiki/Yoga_Vasistha)
    
 ### Gita
 *Song of God.*
