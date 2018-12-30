@@ -16,15 +16,15 @@ Please see [CONTRIBUTING](https://github.com/gopalindians/awesome-hinduism/blob/
       - [Mahesh](#mahesh)
    - [Swamis](#swamis)
    - [Magazines](#magazines)
-   - [Blogs](#blogs) :new:
+   - [Blogs](#blogs)
    - [Panth-Sampradaye](#panth-sampradaye)
       - [Nath-panth](#nath-panth)
       - [Sahib-bandagi](#sahib-bandagi)
       - [Nirankari](#nirankari)
       - [Ramanandi](#Ramanandi)
       - [Akhada](#Akhada)
-      - [Brahmakumaris](#Brahmakumaris) :new:
-      - [Lingayat](#Lingayat) :new:
+      - [Brahmakumaris](#Brahmakumaris) 
+      - [Lingayat](#Lingayat)
    - [Gurukula](#gurukula)
       - [Shri Sidhdata Ashram - Haryana](http://www.shrisidhdataashram.org)
       - [Parmarth Gurukul - Rishikesh](https://www.parmarth.org/ashram/gurukul/)
@@ -40,7 +40,7 @@ Please see [CONTRIBUTING](https://github.com/gopalindians/awesome-hinduism/blob/
 ### Vedas
 *Oldest books of humanity.*
    * [Rigveda - Hindi Bhashya](http://elibrary.thearyasamaj.org/elib/book/eLb_316) - By maharishi dayanand
-   * Vedant
+   * Vedant :new:
         - [Wikipedia](https://en.wikipedia.org/wiki/Vedanta)
         - [Yoga Vasistha](https://en.wikipedia.org/wiki/Yoga_Vasistha)
    
@@ -91,7 +91,7 @@ Please see [CONTRIBUTING](https://github.com/gopalindians/awesome-hinduism/blob/
 *Self realized saints.*
    * [Swami Sivananda](https://www.sivananda.org/teachings/swami-sivananda.html)   
    * [Raman Maharishi](https://www.sriramanamaharshi.org)
-   * [Ramkrishna Paramhansa](https://belurmath.org/) :new:
+   * [Ramkrishna Paramhansa](https://belurmath.org/)
    * [Swami Vivekananda](https://belurmath.org/swami-vivekananda/) 
    
    
@@ -106,8 +106,8 @@ Please see [CONTRIBUTING](https://github.com/gopalindians/awesome-hinduism/blob/
 
 ### Blogs
    * [Isha Blog](https://isha.sadhguru.org/)
-   * [DLSHQ Blog](http://sivanandaonline.org/newsupdates/) :new:
-   * [AOL](https://www.artofliving.org/us-en/blog) :new:
+   * [DLSHQ Blog](http://sivanandaonline.org/newsupdates/)
+   * [AOL](https://www.artofliving.org/us-en/blog)
 ### Panth-Sampradaye   
    * ### [Nath-Panth](https://en.wikipedia.org/wiki/Nath)
       - [Nine Siddhas]()
