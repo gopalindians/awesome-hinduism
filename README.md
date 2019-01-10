@@ -14,8 +14,8 @@ Please see [CONTRIBUTING](https://github.com/gopalindians/awesome-hinduism/blob/
       - [Brahma](#brahma)
       - [Vishnu](#vishnu)
       - [Mahesh](#mahesh)
-   - [Demi Goddess](#demi-goddess) :new:
-      - [Mata Vaishno](#mata-vaishno)
+   - [Demi Goddess](#demi-goddess) 
+      - [Mata Vaishno](#mata-vaishno) :new:
    - [Swamis](#swamis)
    - [Magazines](#magazines)
    - [Blogs](#blogs)
@@ -87,8 +87,8 @@ Please see [CONTRIBUTING](https://github.com/gopalindians/awesome-hinduism/blob/
        - Ganesh
        - Kartik
        
-### Demi Goddess :new:
-    * Mata Vaishno
+### Demi Goddess 
+   * Mata Vaishno :new:
       - [Official website](https://www.maavaishnodevi.org/)
 
    
