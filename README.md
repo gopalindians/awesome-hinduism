@@ -14,6 +14,8 @@ Please see [CONTRIBUTING](https://github.com/gopalindians/awesome-hinduism/blob/
       - [Brahma](#brahma)
       - [Vishnu](#vishnu)
       - [Mahesh](#mahesh)
+   - [Demi Goddess](#demi-goddess) :new:
+      - [Mata Vaishno](#mata-vaishno)
    - [Swamis](#swamis)
    - [Magazines](#magazines)
    - [Blogs](#blogs)
@@ -40,7 +42,7 @@ Please see [CONTRIBUTING](https://github.com/gopalindians/awesome-hinduism/blob/
 ### Vedas
 *Oldest books of humanity.*
    * [Rigveda - Hindi Bhashya](http://elibrary.thearyasamaj.org/elib/book/eLb_316) - By maharishi dayanand
-   * Vedant :new:
+   * Vedant 
         - [Wikipedia](https://en.wikipedia.org/wiki/Vedanta)
         - [Yoga Vasistha](https://en.wikipedia.org/wiki/Yoga_Vasistha)
    
@@ -84,8 +86,11 @@ Please see [CONTRIBUTING](https://github.com/gopalindians/awesome-hinduism/blob/
        - Parvati
        - Ganesh
        - Kartik
+       
+### Demi Goddess :new:
+    * Mata Vaishno
+      - [Official website](https://www.maavaishnodevi.org/)
 
-   
    
 ### Swamis
 *Self realized saints.*
