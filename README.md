@@ -16,6 +16,7 @@ Please see [CONTRIBUTING](https://github.com/gopalindians/awesome-hinduism/blob/
       - [Mahesh](#mahesh)
    - [Demi Goddess](#demi-goddess) 
       - [Mata Vaishno](#mata-vaishno) :new:
+      - [Bhadrakali](#bhadrakali) :new:
    - [Swamis](#swamis)
    - [Magazines](#magazines)
    - [Blogs](#blogs)
@@ -90,7 +91,8 @@ Please see [CONTRIBUTING](https://github.com/gopalindians/awesome-hinduism/blob/
 ### Demi Goddess 
    * Mata Vaishno :new:
       - [Official website](https://www.maavaishnodevi.org/)
-
+   * Bhadrakali  :new:
+      - [Wikipedia](https://en.wikipedia.org/wiki/Bhadrakali)
    
 ### Swamis
 *Self realized saints.*
