@@ -7,7 +7,8 @@ Please see [CONTRIBUTING](https://github.com/gopalindians/awesome-hinduism/blob/
 
 ## Table of Contents
 - [Awesome Hinduism](#awesome-hinduism)
-   - [Vedas](#vedas)  
+   - [Vedas](#vedas)
+   - [Agamas](#agamas) :new:
    - [Gita](#gita)
    - [Puranas](#puranas)
    - [Demi Gods](#demi-gods)
@@ -15,8 +16,8 @@ Please see [CONTRIBUTING](https://github.com/gopalindians/awesome-hinduism/blob/
       - [Vishnu](#vishnu)
       - [Mahesh](#mahesh)
    - [Demi Goddess](#demi-goddess) 
-      - [Mata Vaishno](#mata-vaishno) :new:
-      - [Bhadrakali](#bhadrakali) :new:
+      - [Mata Vaishno](#mata-vaishno) 
+      - [Bhadrakali](#bhadrakali) 
    - [Swamis](#swamis)
    - [Magazines](#magazines)
    - [Blogs](#blogs)
@@ -46,6 +47,8 @@ Please see [CONTRIBUTING](https://github.com/gopalindians/awesome-hinduism/blob/
    * Vedant 
         - [Wikipedia](https://en.wikipedia.org/wiki/Vedanta)
         - [Yoga Vasistha](https://en.wikipedia.org/wiki/Yoga_Vasistha)
+### Agamas :new:
+   * [Wikipedia](https://en.wikipedia.org/wiki/Agama_(Hinduism))
    
 ### Gita
 *Song of God.*
@@ -89,9 +92,9 @@ Please see [CONTRIBUTING](https://github.com/gopalindians/awesome-hinduism/blob/
        - Kartik
        
 ### Demi Goddess 
-   * Mata Vaishno :new:
+   * Mata Vaishno 
       - [Official website](https://www.maavaishnodevi.org/)
-   * Bhadrakali  :new:
+   * Bhadrakali  
       - [Wikipedia](https://en.wikipedia.org/wiki/Bhadrakali)
    
 ### Swamis
