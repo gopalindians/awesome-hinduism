@@ -47,8 +47,8 @@ Please see [CONTRIBUTING](https://github.com/gopalindians/awesome-hinduism/blob/
    * Vedant 
         - [Wikipedia](https://en.wikipedia.org/wiki/Vedanta)
         - [Yoga Vasistha](https://en.wikipedia.org/wiki/Yoga_Vasistha)
-### Agamas :new:
-   * [Wikipedia](https://en.wikipedia.org/wiki/Agama_(Hinduism))
+### Agamas  
+   * [Wikipedia](https://en.wikipedia.org/wiki/Agama_(Hinduism)) :new:
    
 ### Gita
 *Song of God.*
