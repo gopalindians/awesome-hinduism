@@ -8,7 +8,7 @@ Please see [CONTRIBUTING](https://github.com/gopalindians/awesome-hinduism/blob/
 ## Table of Contents
 - [Awesome Hinduism](#awesome-hinduism)
    - [Vedas](#vedas)
-   - [Agamas](#agamas) :new:
+   - [Agamas](#agamas) 
    - [Gita](#gita)
    - [Puranas](#puranas)
    - [Demi Gods](#demi-gods)
@@ -39,6 +39,8 @@ Please see [CONTRIBUTING](https://github.com/gopalindians/awesome-hinduism/blob/
       - [Chinmaya Eswar Gurukula ](http://chinmayauniversity.ac.in/chinmaya-eswar-gurukula/)
       - [Acharyakulam](http://www.acharyakulam.org/)
       - [Prabodhini Gurukulam](http://prabodhinigurukula.org/)
+   - [Publishers](#publishers)   :new:
+      - [Gita Press](http://gitapress.org/)
 
 
 ### Vedas
