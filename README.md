@@ -39,7 +39,8 @@ Please see [CONTRIBUTING](https://github.com/gopalindians/awesome-hinduism/blob/
       - [Chinmaya Eswar Gurukula ](http://chinmayauniversity.ac.in/chinmaya-eswar-gurukula/)
       - [Acharyakulam](http://www.acharyakulam.org/)
       - [Prabodhini Gurukulam](http://prabodhinigurukula.org/)
-   - [Publishers](#publishers)   :new:
+      - [Bhaktivedanta Gurukula International School-ISKCON](https://www.bgis.org/) :new:
+   - [Publishers](#publishers)   
       - [Gita Press](http://gitapress.org/)
 
 
