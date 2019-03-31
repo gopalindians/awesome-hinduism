@@ -29,6 +29,7 @@ Please see [CONTRIBUTING](https://github.com/gopalindians/awesome-hinduism/blob/
       - [Akhada](#Akhada)
       - [Brahmakumaris](#Brahmakumaris) 
       - [Lingayat](#Lingayat)
+      - [ISKCON](#ISKCON) :new:
    - [Gurukula](#gurukula)
       - [Shri Sidhdata Ashram - Haryana](http://www.shrisidhdataashram.org)
       - [Parmarth Gurukul - Rishikesh](https://www.parmarth.org/ashram/gurukul/)
@@ -39,7 +40,7 @@ Please see [CONTRIBUTING](https://github.com/gopalindians/awesome-hinduism/blob/
       - [Chinmaya Eswar Gurukula ](http://chinmayauniversity.ac.in/chinmaya-eswar-gurukula/)
       - [Acharyakulam](http://www.acharyakulam.org/)
       - [Prabodhini Gurukulam](http://prabodhinigurukula.org/)
-      - [Bhaktivedanta Gurukula International School-ISKCON](https://www.bgis.org/) :new:
+      - [Bhaktivedanta Gurukula International School-ISKCON](https://www.bgis.org/)
    - [Publishers](#publishers)   
       - [Gita Press](http://gitapress.org/)
 
@@ -51,7 +52,7 @@ Please see [CONTRIBUTING](https://github.com/gopalindians/awesome-hinduism/blob/
         - [Wikipedia](https://en.wikipedia.org/wiki/Vedanta)
         - [Yoga Vasistha](https://en.wikipedia.org/wiki/Yoga_Vasistha)
 ### Agamas  
-   * [Wikipedia](https://en.wikipedia.org/wiki/Agama_(Hinduism)) :new:
+   * [Wikipedia](https://en.wikipedia.org/wiki/Agama_(Hinduism)) 
    
 ### Gita
 *Song of God.*
@@ -160,3 +161,4 @@ Please see [CONTRIBUTING](https://github.com/gopalindians/awesome-hinduism/blob/
         - [Kalpwasis]()
    * ### [Brahmakumaris](http://www.brahmakumaris.org)
    * ### [Lingayat](https://en.wikipedia.org/wiki/Lingayat)
+   * ### [ISKCON](http://www.iskcon.org/) :new:
