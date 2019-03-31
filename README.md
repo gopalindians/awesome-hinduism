@@ -161,4 +161,4 @@ Please see [CONTRIBUTING](https://github.com/gopalindians/awesome-hinduism/blob/
         - [Kalpwasis]()
    * ### [Brahmakumaris](http://www.brahmakumaris.org)
    * ### [Lingayat](https://en.wikipedia.org/wiki/Lingayat)
-   * ### [ISKCON](http://www.iskcon.org/) :new:
+   * ### [ISKCON](http://www.iskcon.org/)
