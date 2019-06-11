@@ -94,6 +94,10 @@ Please see [CONTRIBUTING](https://github.com/gopalindians/awesome-hinduism/blob/
        - Parvati
        - Ganesh
        - Kartik
+     - Places 
+       - Amarnath
+       - Kedarnath - [Location](https://goo.gl/maps/rrT4TKBi4xnwxsyw7)
+       - Tungnath
        
 ### Demi Goddess 
    * Mata Vaishno 
