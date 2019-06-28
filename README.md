@@ -29,7 +29,7 @@ Please see [CONTRIBUTING](https://github.com/gopalindians/awesome-hinduism/blob/
       - [Akhada](#Akhada)
       - [Brahmakumaris](#Brahmakumaris) 
       - [Lingayat](#Lingayat)
-      - [ISKCON](#ISKCON) :new:
+      - [ISKCON](#ISKCON) 
    - [Gurukula](#gurukula)
       - [Shri Sidhdata Ashram - Haryana](http://www.shrisidhdataashram.org)
       - [Parmarth Gurukul - Rishikesh](https://www.parmarth.org/ashram/gurukul/)
@@ -51,6 +51,9 @@ Please see [CONTRIBUTING](https://github.com/gopalindians/awesome-hinduism/blob/
    * Vedant 
         - [Wikipedia](https://en.wikipedia.org/wiki/Vedanta)
         - [Yoga Vasistha](https://en.wikipedia.org/wiki/Yoga_Vasistha)
+   * Upanishads :new:
+        - Resources
+          - [pedia.desibantu.com/upanishads](https://pedia.desibantu.com/upanishads/)
 ### Agamas  
    * [Wikipedia](https://en.wikipedia.org/wiki/Agama_(Hinduism)) 
    
