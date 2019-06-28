@@ -99,7 +99,7 @@ Please see [CONTRIBUTING](https://github.com/gopalindians/awesome-hinduism/blob/
        - Ganesh
        - Kartik
      - Places 
-       - Amarnath
+       - Amarnath  - [Location](https://goo.gl/maps/8nfCDRA2T381xgCE8)
        - Kedarnath - [Location](https://goo.gl/maps/rrT4TKBi4xnwxsyw7)
        - Tungnath
        
