@@ -54,6 +54,7 @@ Please see [CONTRIBUTING](https://github.com/gopalindians/awesome-hinduism/blob/
    * Upanishads :new:
         - Resources
           - [pedia.desibantu.com/upanishads](https://pedia.desibantu.com/upanishads/)
+          - [gita-society.com/108upanishads](https://www.gita-society.com/108upanishads.pdf)
 ### Agamas  
    * [Wikipedia](https://en.wikipedia.org/wiki/Agama_(Hinduism)) 
    
