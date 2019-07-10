@@ -19,6 +19,7 @@ Please see [CONTRIBUTING](https://github.com/gopalindians/awesome-hinduism/blob/
       - [Mata Vaishno](#mata-vaishno) 
       - [Bhadrakali](#bhadrakali) 
    - [Swamis](#swamis)
+   - [Mathas](#mathas)
    - [Magazines](#magazines)
    - [Blogs](#blogs)
    - [Panth-Sampradaye](#panth-sampradaye)
@@ -115,6 +116,9 @@ Please see [CONTRIBUTING](https://github.com/gopalindians/awesome-hinduism/blob/
    * [Raman Maharishi](https://www.sriramanamaharshi.org)
    * [Ramkrishna Paramhansa](https://belurmath.org/)
    * [Swami Vivekananda](https://belurmath.org/swami-vivekananda/) 
+
+### Mathas
+   * [Goverdhan matha](https://www.govardhanpeeth.org/index.php/en/)
    
    
 ### Magazines
