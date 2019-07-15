@@ -53,6 +53,7 @@ Please see [CONTRIBUTING](https://github.com/gopalindians/awesome-hinduism/blob/
         - [Wikipedia](https://en.wikipedia.org/wiki/Vedanta)
         - [Yoga Vasistha](https://en.wikipedia.org/wiki/Yoga_Vasistha)
    * Upanishads :new:
+        - [Dhyanabindu](https://en.wikipedia.org/wiki/Dhyanabindu_Upanishad) 
         - Resources
           - [pedia.desibantu.com/upanishads](https://pedia.desibantu.com/upanishads/)
           - [gita-society.com/108upanishads](https://www.gita-society.com/108upanishads.pdf)
