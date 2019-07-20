@@ -38,12 +38,13 @@ Please see [CONTRIBUTING](https://github.com/gopalindians/awesome-hinduism/blob/
       - [Veda Vijnana Gurukulam](http://www.vvgurukulam.org)
       - [Omakarnath Samkrit Sikhsha Samsad](http://www.omkarnathsamskritasikshasamsad.in)
       - [Gurukul Kangri Vidyalaya](https://gurukulkangrividyalaya.org/)
-      - [Chinmaya Eswar Gurukula ](http://chinmayauniversity.ac.in/chinmaya-eswar-gurukula/)
+      - [Chinmaya Eswar Gurukula](http://chinmayauniversity.ac.in/chinmaya-eswar-gurukula/)
       - [Acharyakulam](http://www.acharyakulam.org/)
       - [Prabodhini Gurukulam](http://prabodhinigurukula.org/)
       - [Bhaktivedanta Gurukula International School-ISKCON](https://www.bgis.org/)
    - [Publishers](#publishers)   
       - [Gita Press](http://gitapress.org/)
+   - [Twitter-Handles](#twitter-handles) :new:   
 
 
 ### Vedas
@@ -52,7 +53,7 @@ Please see [CONTRIBUTING](https://github.com/gopalindians/awesome-hinduism/blob/
    * Vedant 
         - [Wikipedia](https://en.wikipedia.org/wiki/Vedanta)
         - [Yoga Vasistha](https://en.wikipedia.org/wiki/Yoga_Vasistha)
-   * Upanishads :new:
+   * Upanishads 
         - [Dhyanabindu](https://en.wikipedia.org/wiki/Dhyanabindu_Upanishad) 
         - Resources
           - [pedia.desibantu.com/upanishads](https://pedia.desibantu.com/upanishads/)
@@ -175,3 +176,12 @@ Please see [CONTRIBUTING](https://github.com/gopalindians/awesome-hinduism/blob/
    * ### [Brahmakumaris](http://www.brahmakumaris.org)
    * ### [Lingayat](https://en.wikipedia.org/wiki/Lingayat)
    * ### [ISKCON](http://www.iskcon.org/)
+### Twitter Handles 
+ - [Sampadananda Mishra सम्पदानन्दमि‌श्रः - Sanskrit](https://twitter.com/Sampadananda)
+ - [Nityānanda Miśra (मिश्रोपाख्यो नित्यानन्दः) - Sanskrit](https://twitter.com/MisraNityanand)
+ - [OG Saffron - Dharmic education & Motivation ](https://twitter.com/OGSaffron)
+ - [Lost Temples - Temples](https://twitter.com/LostTemple7)
+ - [Govardhan Math - Shankracharya](https://twitter.com/govardhanmath)
+ - [Keshav- Krishna paintings](https://twitter.com/keshav61)
+ - [Dakshin Vrindavan - Cows](https://twitter.com/daksinvrindavan)
+
