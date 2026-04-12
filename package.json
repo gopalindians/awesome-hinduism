@@ -1,0 +1,11 @@
+{
+  "name": "awesome-hinduism",
+  "private": true,
+  "description": "Tooling for README link checks",
+  "scripts": {
+    "verify:readme-links": "node scripts/verify-readme-links-playwright.mjs"
+  },
+  "devDependencies": {
+    "playwright": "^1.49.0"
+  }
+}
